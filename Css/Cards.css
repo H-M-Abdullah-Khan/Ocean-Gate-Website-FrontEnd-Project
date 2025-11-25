@@ -1,0 +1,63 @@
+/* Url Link For Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap');
+/* Url Link For Fonts */
+
+.card{
+    font-family: "Lato", sans-serif;
+    margin: 20px 0;
+    /* box-shadow: 4px 4px 15px rgb(99, 99, 99); */
+    transition: all 0.3s ease;
+    border-radius: 25px;
+    /* background: #929497;
+    box-shadow:  35px 35px 70px #b8b8b8,
+                 -35px -35px 70px #ffffff; */
+    
+}
+.card a{
+    background-color:white ;
+}
+.card a:hover{
+    transition: 1s;
+    border-color: white;
+}
+.card:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+.card-title{
+
+    font-size: 17px;
+  
+}
+.cardflex{
+    display: flex;
+     justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -50px;
+    
+}
+
+.testflex{
+     display: flex;
+     justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -50px;
+}
+
+.testflex h1{
+    
+    font-family: "Poppins";
+    color: #929497;
+}
+.testflex #test{
+    color: #008f9e;
+}
+.testflex p{
+    font-family: "Poppins";
+}

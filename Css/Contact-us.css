@@ -1,0 +1,30 @@
+.contant{
+    margin-top: 120px;
+    margin-bottom: 50px;
+  }
+
+.contant h1{
+  font-family: "Bebas Neue";
+  color: #008f9e;
+  font-size: 80px;
+  margin-top: 40px;
+}
+
+.contant h4{
+  color: #929497;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: "Poppins";
+}
+.contant p{
+  color: #929497;
+  font-family: "Poppins Light";
+  /* font-weight: bold; */
+  /* font-size: 0px; */
+}
+.contant a{
+  color: #929497;
+  font-family: "Poppins Light";
+  /* font-weight: bold; */
+  /* font-size: 0px; */
+}
